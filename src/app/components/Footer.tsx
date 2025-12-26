@@ -100,7 +100,7 @@ export function Footer() {
 
         {/* Copyright */}
         <div className="text-center text-white/50">
-          <p>&copy; {new Date().getFullYear()} University Name. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} </p>
         </div>
       </div>
     </footer>
