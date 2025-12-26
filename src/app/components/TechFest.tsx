@@ -138,7 +138,7 @@ export function TechFest() {
         {/* Section Header */}
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-white text-4xl lg:text-5xl mb-4 font-bold">
-            IEEE TechFest 2025
+            IEEE Techithon 2026
           </h2>
           <p className="text-white/70 text-lg lg:text-xl max-w-2xl mx-auto">
             Three days of cutting-edge technology, innovation, and collaboration

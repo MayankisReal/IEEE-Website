@@ -32,7 +32,7 @@ export function Hero() {
         <div className="max-w-[1440px] w-full">
           <div className="text-center lg:text-left max-w-3xl mx-auto lg:mx-0">
             <h1 className="text-white text-5xl lg:text-7xl mb-4 lg:mb-6 font-bold">
-              IEEE TechFest 2025
+              IEEE Techithon 2026
             </h1>
             <p className="text-white/90 text-xl lg:text-2xl mb-8 lg:mb-10">
               Join us for three days of innovation, technology, and inspiration

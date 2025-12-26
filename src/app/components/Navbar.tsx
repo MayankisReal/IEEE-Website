@@ -63,7 +63,13 @@ export function Navbar() {
                     History
                   </a>
                   <a href="#" className="block px-4 py-2 text-white hover:bg-white/5 transition-colors">
+                    Events
+                  </a>
+                  <a href="#" className="block px-4 py-2 text-white hover:bg-white/5 transition-colors">
                     Partners
+                  </a>
+                  <a href="#" className="block px-4 py-2 text-white hover:bg-white/5 transition-colors">
+                    Know More
                   </a>
                 </div>
               )}
