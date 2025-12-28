@@ -10,7 +10,7 @@ export function Footer() {
             <div className="w-12 h-12 rounded-lg flex items-center justify-center mb-4">
               <div className="flex items-center">
             <a
-              href="https://example.com"   // destination URL
+              href="https://atharvauniversity.org/"   // destination URL
               target="_blank"              // opens in new tab (optional)
               rel="noopener noreferrer"
               className="w-50 h-32 pt-3 rounded-lg flex items-center justify-center "
@@ -28,28 +28,28 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.facebook.com/people/Atharva-University-Mumbai/61577145298845/"
                 className="w-10 h-10 bg-white/5 hover:bg-white/10 rounded-lg flex items-center justify-center transition-colors"
                 aria-label="Facebook"
               >
                 <Facebook className="w-5 h-5 text-white" />
               </a>
               <a
-                href="#"
+                href="https://x.com/Uni_atharva"
                 className="w-10 h-10 bg-white/5 hover:bg-white/10 rounded-lg flex items-center justify-center transition-colors"
                 aria-label="Twitter"
               >
                 <Twitter className="w-5 h-5 text-white" />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/atharva_university/"
                 className="w-10 h-10 bg-white/5 hover:bg-white/10 rounded-lg flex items-center justify-center transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram className="w-5 h-5 text-white" />
               </a>
               <a
-                href="#"
+                href="https://in.linkedin.com/company/atharva-university"
                 className="w-10 h-10 bg-white/5 hover:bg-white/10 rounded-lg flex items-center justify-center transition-colors"
                 aria-label="LinkedIn"
               >

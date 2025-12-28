@@ -20,7 +20,7 @@ export function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <a
-              href="https://example.com"   // destination URL
+              href="https://atharvauniversity.org/"   // destination URL
               target="_blank"              // opens in new tab (optional)
               rel="noopener noreferrer"
               className="w-50 h-32 pt-3 rounded-lg flex items-center justify-center "
