@@ -68,7 +68,7 @@ export function Navbar() {
                   <a href="#" className="block px-4 py-2 text-white hover:bg-white/5 transition-colors">
                     Partners
                   </a>
-                  <a href="#" className="block px-4 py-2 text-white hover:bg-white/5 transition-colors">
+                  <a href="https://atharvauniversity.org/" className="block px-4 py-2 text-white hover:bg-white/5 transition-colors">
                     Know More
                   </a>
                 </div>
@@ -168,6 +168,20 @@ export function Navbar() {
                         onClick={() => setIsMobileMenuOpen(false)}
                       >
                         Partners
+                      </a>
+                      <a
+                        href="#"
+                        className="text-white/80 text-xl py-2"
+                        onClick={() => setIsMobileMenuOpen(false)}
+                      >
+                        Our Team
+                      </a>
+                      <a
+                        href="#"
+                        className="text-white/80 text-xl py-2"
+                        onClick={() => setIsMobileMenuOpen(false)}
+                      >
+                        Our Team
                       </a>
                     </div>
                   )}
