@@ -174,14 +174,14 @@ export function Navbar() {
                         className="text-white/80 text-xl py-2"
                         onClick={() => setIsMobileMenuOpen(false)}
                       >
-                        Our Team
+                        Know More
                       </a>
                       <a
                         href="#"
                         className="text-white/80 text-xl py-2"
                         onClick={() => setIsMobileMenuOpen(false)}
                       >
-                        Our Team
+                        Events
                       </a>
                     </div>
                   )}
